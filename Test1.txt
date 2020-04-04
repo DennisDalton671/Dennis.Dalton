@@ -1,2 +1,6 @@
 Change 1 on my MyBranch
+<<<<<<< HEAD
 This is change 2 on the master file
+=======
+Change 2 on MyBranch
+>>>>>>> mybranch
